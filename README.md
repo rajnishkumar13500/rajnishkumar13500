@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Rajnish Kumar 
 
 - :book: Bsc Computer science Graduate From Delhi University
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m Currently looking for Internship and Job Offer .
+- 🤔  Currently looking for Internship and Job Offer 
+- 🌱  Currently learning React JS
+- 👯  looking to collaborate on Web Development Projects.
+- 😄  Pronouns: Web Developer/Softare Developer
+- ⚡  Fun fact: I am a Bug Bounty Hunter 😄
+
 - 📫 How to reach me: https://www.linkedin.com/in/rajnish-kumar-412aba106/
-- 😄 Pronouns: Web Developer/Softare Developer
-- ⚡ Fun fact: I am a Bug Bounty Hunder 😄
+
 
 Live Projects : 
 
