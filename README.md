@@ -2,7 +2,7 @@
 
 - :book: Bsc Computer science Graduate From Delhi University
 - 🤔  Currently looking for Internship and Job Offer 
-- 🌱  Currently learning React JS
+- 🌱  Learning React JS
 - 👯  looking to collaborate on Web Development Projects.
 - 😄  Pronouns: Web Developer/Softare Developer
 - ⚡  Fun fact: I am a Bug Bounty Hunter 😄
