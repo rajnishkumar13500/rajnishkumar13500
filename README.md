@@ -8,6 +8,7 @@
 - ⚡  Fun fact: I am a Bug Bounty Hunter 😄
 
 - 📫 How to reach me: https://www.linkedin.com/in/rajnish-kumar-412aba106/
+- :link:leetcode: https://leetcode.com/Rajnish_Kumar_04/
 
 
 Live Projects : 
