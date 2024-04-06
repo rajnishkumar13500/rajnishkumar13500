@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Rajnish Kumar 
 
-- :book: Bsc Computer science Graduate From Delhi University
+- :book: Pursuing MCA from NIT Agartala
 - 🤔  Currently looking for Internship and Job Offer 
-- 🌱  Learning React JS
+- 🌱  Learning Web Development and Competitive Programming
 - 👯  looking to collaborate on Web Development Projects.
-- 😄  Pronouns: Web Developer/Softare Developer
+- 😄  Pronouns: Web Developer
 - ⚡  Fun fact: I am a Bug Bounty Hunter 😄
 
 - 📫 How to reach me: https://www.linkedin.com/in/rajnish-kumar-412aba106/
