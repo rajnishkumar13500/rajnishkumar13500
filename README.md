@@ -13,10 +13,8 @@
 
 Live Projects : 
 
-AI Prompt Master Chrome Extension : https://chromewebstore.google.com/detail/ai-prompt-master/mioljeiidnaofnpdmiclglphlfbpflil   Published year :2024
+AI Prompt Master Chrome Extension(2024) : https://chromewebstore.google.com/detail/ai-prompt-master/mioljeiidnaofnpdmiclglphlfbpflil  
 
-Portfolio website :  https://rajnishkumar13500.github.io/Portfolio/                          Created year : 2021 
-
-DU resource Website : https://rajnishkumar13500.github.io/DU-Resource-Website/               Created year : 2020
+DU resource Website(2020) : https://rajnishkumar13500.github.io/DU-Resource-Website/               Created year : 2020
 
 
