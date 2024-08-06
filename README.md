@@ -13,6 +13,8 @@
 
 Live Projects : 
 
+AI Prompt Master Chrome Extension : https://chromewebstore.google.com/detail/ai-prompt-master/mioljeiidnaofnpdmiclglphlfbpflil
+
 Portfolio website :  https://rajnishkumar13500.github.io/Portfolio/
 
 DU resource Website : https://rajnishkumar13500.github.io/DU-Resource-Website/
