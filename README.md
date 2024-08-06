@@ -15,6 +15,6 @@ Live Projects :
 
 AI Prompt Master Chrome Extension(2024) : https://chromewebstore.google.com/detail/ai-prompt-master/mioljeiidnaofnpdmiclglphlfbpflil  
 
-DU resource Website(2020) : https://rajnishkumar13500.github.io/DU-Resource-Website/               Created year : 2020
+DU resource Website(2020) : https://rajnishkumar13500.github.io/DU-Resource-Website/             
 
 
