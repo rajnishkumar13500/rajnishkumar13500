@@ -1,103 +1,102 @@
-<h1 align="center">Hi there 👋, I'm Rajnish Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer building scalable web applications with a focus on AI integration.</h3>
+# Hi there, I'm Rajnish Kumar! 👋
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rajnish-kumar-412aba106/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/Rajnish_Kumar_04/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" alt="LeetCode"/>
-</a>
-<a href="mailto:rajnishkumar13500@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
+<div align="center">
 
-👨‍💻 About Me
-I'm a Full Stack Web Developer specializing in the MERN Stack with hands-on experience in building scalable web applications, optimizing performance, and integrating AI-driven features. I am passionate about problem-solving, collaborative teamwork, and continuously learning new technologies.
+## 🚀 Full Stack Developer | MERN Stack | AI Enthusiast
 
-🎓 I'm currently pursuing a Master of Computer Application (MCA) from the National Institute of Technology Agartala (NIT Agartala).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-kumar-412aba106/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Rajnish_Kumar_04/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnishkumar13500@gmail.com)
 
-🌱 I’m sharpening my skills in Web Development and Competitive Programming.
+</div>
 
-🤝 I’m looking to collaborate on innovative Web Development Projects.
+---
 
-🤔 I'm actively seeking Internship and Full-Time Job Offers.
+<div align="left">
 
-⚡ Fun fact: I'm a Bug Bounty Hunter in my spare time!
+## 💫 About Me
 
-🛠️ My Skill Set
-Here are some of the technologies I've been working with:
+🎓 **MCA @ NIT Agartala** (CGPA: 9.0/10) | 💼 **Ex-SDE Intern @ Cloud Play Solution**  
+📍 Faridabad, Haryana | 🔍 **Actively seeking Full-time SDE opportunities**  
+🏆 **LeetCode:** 1610 Rating (Top 26.48%) | **CodeChef:** 1604 Rating | 🔐 **Bug Bounty Hunter**
 
-Category
+</div>
 
-Technologies
+## 🛠️ Tech Stack & 📈 GitHub Stats
 
-Languages
+<table>
+<tr>
+<td width="50%" align="center">
 
-C++ Java JavaScript TypeScript Python
+### Languages & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-React.js Next.js Redux Toolkit HTML5 CSS3 Tailwind CSS
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Backend
+### 🎯 Competitive Programming
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rajnish_Kumar_04?theme=dark&font=Noto%20Sans&width=350)](https://leetcode.com/Rajnish_Kumar_04/)
 
-Node.js Express.js REST APIs Prisma ORM JWT Authentication
+</td>
+<td width="50%" align="center">
 
-Databases
+<img src="https://github-readme-stats.vercel.app/api?username=rajnishkumar13500&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="90%"/>
 
-MongoDB MySQL
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnishkumar13500&layout=compact&langs_count=6&theme=tokyonight" width="90%"/>
 
-DevOps & Cloud
+</td>
+</tr>
+</table>
 
-Docker Nginx AWS (Lambda, EC2, S3) CI/CD Basics
+## 🏆 Featured Projects
 
-AI & Machine Learning
+<div align="center">
 
-Google Gemini API Generative AI Prompt Engineering
+<table>
+<tr>
+<td width="50%">
 
-Tools & Other
+### 🤖 [CompilerAI](https://compiler-ai.vercel.app/)
+**AI-Powered Code Compiler**  
+React.js • AWS Lambda • Gemini API  
+Multi-language execution with intelligent AI assistance
 
-Git GitHub Postman Figma Data Structures & Algorithms
+</td>
+<td width="50%">
 
-🚀 My Projects
-Here are some of my featured projects.
+### 🔌 [AI Prompt Master](https://chromewebstore.google.com/detail/ai-prompt-master/mioljeiidnaofnpdmiclglphlfbpflil)
+**Chrome Extension**  
+React.js • Chrome APIs • AI Integration  
+Available on Chrome Web Store
 
-Project
+</td>
+</tr>
+</table>
 
-Description
+</div>
 
-🤖 CompilerAI <br/> Live Link
+<div align="center">
 
-An AI-powered code compiler with intelligent assistance. Features code hints, error analysis, and problem-solving intuition using Google's Gemini API, all within a secure AWS Lambda and Docker environment.
+## 🎯 Quick Highlights
 
-✨ AI Prompt Master <br/> Chrome Webstore
+**📝 [GeeksforGeeks Article](https://www.geeksforgeeks.org/linux-unix/sniffing-using-bettercap-in-linux/):** 35k+ views on Cybersecurity  
 
-A Chrome extension built with React.js and Gemini API for AI-powered prompt generation. Features a user-friendly interface and optimized API handling for a smooth experience.
+**🏅 Hackathon Finalist:** Indian Army CTF & TechGig Code Gladiators 2024
 
-📚 Study Notion <br/> GitHub Repo
+---
 
-A comprehensive e-learning platform using the MERN stack. Includes JWT authentication, Cloudinary for media, Razorpay for payments, and a responsive UI with course creation and progress tracking.
+### 💼 Open to Full-time SDE Opportunities | Let's Connect! 🚀
 
-🏆 Achievements & Recognition
-📝 Published a technical article on Cybersecurity (MITM) on GeeksforGeeks with over 35,000+ views.
+⭐️ From [Rajnish Kumar](https://github.com/rajnishkumar13500)
 
-🏅 Finalist in the Indian Army Hackathon (Capture the Flag Event).
-
-💻 Finalist in TechGig Code Gladiators 2024.
-
-🚀 Achieved a peak rating of 1610 on LeetCode (Top 26.5%).
-
-🌟 Secured a peak rating of 1604 on CodeChef.
-
-📊 My GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drajnishkumar13500%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="Rajnish's GitHub stats" />
-</p>
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drajnishkumar13500%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
-</p>
-           
-
-
+</div>
